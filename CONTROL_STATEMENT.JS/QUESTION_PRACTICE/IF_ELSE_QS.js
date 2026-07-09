@@ -215,7 +215,8 @@ if(IDCard === "yes" && password === 7209365 && Rank === 1003 && clearanceLevel =
     console.log("Enter your currect rank NO ")
   }
   if(clearanceLevel !== "yes"){
-    console.log("Sorry I need clearanceLevel")
+    console.log("Sorry I need your clearanceLevel")
   }
 }
+
 
